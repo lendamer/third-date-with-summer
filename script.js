@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Ok, du hast dich verklickt.",
+    "Junge was",
+    "dikka",
+    "STOOOPID",
+    "Ok du bist wirklich ein trottel",
+    "Essen geht auch auf mich :/",
+    "Ich bau nie wieder Lego mit dir zusammen",
+    "Sie macht einfach Anakin aus mir",
+    "OK JUNGE JETZT KLICK EINFACH JA",
+    "FUCK YOUU"
 ];
 
 let messageIndex = 0;
